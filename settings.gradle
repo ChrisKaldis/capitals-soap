@@ -1,2 +1,3 @@
 rootProject.name = 'capitals-soap'
 include 'producing'
+include 'consuming'
